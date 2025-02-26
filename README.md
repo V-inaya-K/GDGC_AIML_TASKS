@@ -4,7 +4,7 @@ The AI/ML team of GDGC-ADGIPS🧑‍💻 was assigned a series of tasks to impro
 # Our Team:
 These Task have been successfully completed by Ai/Ml Enthusiasts:-<br>
 Vinayak Shukla (me)👑<br>
-Sanskriti🎀<br>
+Sanskriti🎀 (@kshypsans)<br>
 
 # Task Details:
 Task 1:-
