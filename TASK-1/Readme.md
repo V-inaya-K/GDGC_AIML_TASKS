@@ -4,4 +4,4 @@
 
 2. We have Submitted the prediction of our best model on this competition.🥳<br>
 
-3.We have Pushed our notebook to your Task1 folder.✨
+3. We have Pushed our notebook to your Task1 folder.✨
