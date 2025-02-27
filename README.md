@@ -1,7 +1,7 @@
 # Overview:
 The AI/ML team of GDGC-ADGIPS🧑‍💻 was assigned a series of tasks to improve knowledge📖 and efficiency⏳ of Team Members.
 
-# Our Team:
+# The Team:
 These Task have been successfully completed by Ai/Ml Enthusiasts:-<br>
 Vinayak Shukla (me)👑<br>
 Sanskriti🎀 (@kshypsans)<br>
